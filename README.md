@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 ## About Me
 
 - 🔭 I’m currently working on various web development projects.
+- Working on full stack project "Bloggify".
 - 🌱 I’m currently learning JavaScript, React, and Node.js.
 <!--- 👋 Hi, I’m Syed Faiz Ahmed
 - 👀 I’m interested in 
@@ -14,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 - ## My Skills
 
 - **Languages:** HTML, CSS, JavaScript, C, C++
-- **Frameworks/Libraries:** Bootstrap, Node.js, Express.js
+- **Frameworks/Libraries:** Bootstrap, React.js, Node.js, Express.js, 
 - **Tools:** Git, GitHub, VSCode
 
 
