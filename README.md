@@ -15,8 +15,9 @@ Welcome to my GitHub profile! I'm passionate about web development and love buil
 - ## My Skills
 
 - **Languages:** HTML, CSS, JavaScript, C, C++
-- **Frameworks/Libraries:** Bootstrap, React.js, Node.js, Express.js, 
+- **Frameworks/Libraries:** TailWind CSS, React.js, Node.js, Express.js
 - **Tools:** Git, GitHub, VSCode
+- **Databases:** MongoDB, PostgreSQL, SQL
 
 
 <!---
